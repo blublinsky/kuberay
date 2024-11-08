@@ -218,7 +218,7 @@
         "FILE"
       ],
       "default": "DIRECTORY",
-      "description": "If indicate hostpath, we need to let user indicate which type \nthey would like to use."
+      "description": "If indicate hostpath, we need to let user indicate which type\nthey would like to use."
     },
     "VolumeMountPropagationMode": {
       "type": "string",
@@ -548,7 +548,7 @@
         },
         "entrypointResources": {
           "type": "string",
-          "description": "Optional entrypointResources specifies the custom resources and quantities to reserve \nfor the entrypoint command."
+          "description": "Optional entrypointResources specifies the custom resources and quantities to reserve\nfor the entrypoint command."
         },
         "createdAt": {
           "type": "string",
